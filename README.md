@@ -61,7 +61,9 @@ Scenario 4: Instructional / Practical Task
 Broad Prompt : “Write a letter.”
 ## output 
 <img width="1111" height="706" alt="Screenshot 2025-09-01 093458" src="https://github.com/user-attachments/assets/d02176f9-d439-4c2e-9594-a3f753d5175e" />
+
 ## OUTPUT:
+
 [EX2 PROMPT.pdf](https://github.com/user-attachments/files/22099583/EX2.PROMPT.pdf)
 
 ## Result
